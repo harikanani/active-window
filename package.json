@@ -1,15 +1,25 @@
 {
-  "name": "active-window",
-  "version": "0.1.0",
+  "name": "my-active-window",
+  "version": "0.0.1",
   "description": "Get active window title.",
+  "author": {
+    "name": "Harikrushn Kanani",
+    "email": "hkanani191@gmail.com",
+    "url": "https://harikanani.github.io"
+  },
   "main": "index.js",
-  "contributors":[{ "name" : "Jason Stallings "
-                  , "email" : "jason@stallin.gs"
-                  , "url" : ""},
-                  { "name" : "Robson Vieira"
-                  , "email" : "robsonvnasc@gmail.com"
-                  , "url" : ""}
-                ],
+  "contributors": [
+    {
+      "name": "Jason Stallings ",
+      "email": "jason@stallin.gs",
+      "url": ""
+    },
+    {
+      "name": "Robson Vieira",
+      "email": "robsonvnasc@gmail.com",
+      "url": ""
+    }
+  ],
   "license": "MIT",
   "dependencies": {}
 }
