@@ -9,7 +9,7 @@ Compatible with Linux, Windows 7+, and OSX;
 ## Usage
 
 ```javascript
-var monitor = require("active-window");
+var monitor = require("my-active-window");
 
 callback = function (window) {
   try {

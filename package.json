@@ -1,6 +1,6 @@
 {
   "name": "my-active-window",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Get active window title.",
   "author": {
     "name": "Harikrushn Kanani",
@@ -21,5 +21,13 @@
     }
   ],
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harikanani/active-window.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harikanani/active-window/issues"
+  },
+  "homepage": "https://github.com/harikanani/active-window#readme"
 }
